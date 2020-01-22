@@ -1,9 +1,29 @@
 body {
   background: url("https://www.itl.cat/pngfile/big/83-831748_astronaut-space-space-art-astronaut-moon-art.jpg") ;
-  background-size: 90%;
+  background-size: 80%;
 }
 
 img{
-  width: 40%;
-  margin-left: 50px
+  width: 30%;
+  margin-left: 820px;
+  margin-top: 200px;
+}
+
+h2{
+  color: white;
+  font-family: Monospace;
+  font-weight: 900;
+  font-size: 30px;
+  margin-left: 850px;
+  width: 500px
+}
+
+#down
+{
+	position: absolute;
+	top:85vh;
+	size: 40px;
+	padding: 20px;
+	font-size: 2.5em;
+  color: white;
 }
