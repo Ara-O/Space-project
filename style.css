@@ -1,11 +1,9 @@
-/* CSS files add styling rules to your content */
-
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+  background: url("https://www.itl.cat/pngfile/big/83-831748_astronaut-space-space-art-astronaut-moon-art.jpg") ;
+  background-size: 90%;
 }
 
-h1 {
-  font-style: italic;
-  color: #373fff;
+img{
+  width: 40%;
+  margin-left: 50px
 }
