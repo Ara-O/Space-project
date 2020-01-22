@@ -1,6 +1,7 @@
 body {
-  background: url("https://www.itl.cat/pngfile/big/83-831748_astronaut-space-space-art-astronaut-moon-art.jpg") ;
-  background-size: 80%;
+  background: url("https://www.itl.cat/pngfile/big/83-831748_astronaut-space-space-art-astronaut-moon-art.jpg") no-repeat; ;
+  background-size: auto;
+  
 }
 
 img{
@@ -26,4 +27,16 @@ h2{
 	padding: 20px;
 	font-size: 2.5em;
   color: white;
+  text-align: center;
+  margin-left: 573px;
+    margin-top: 101px;
+}
+
+#down:hover
+{
+	cursor: pointer;
+	background-color: white;
+	opacity: 1;
+  color: black;
+  border-radius: 12px
 }
