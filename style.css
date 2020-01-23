@@ -1,4 +1,4 @@
-body {
+body{
   background: url("http://sites.psu.edu/siowfa14/wp-content/uploads/sites/13467/2014/09/tumblr_static_starry.jpg") no-repeat;
   background-size: auto;
   
@@ -19,13 +19,9 @@ h1{
   color: white;
   text-align: center; 
   font-family: monospace;
-  font-size: 100px;
+  font-size: 110px;
   width: auto;
    margin-top: 250px
 }
 
 
-.logo:hover{
-  background: filter: blur:
- 
-}
