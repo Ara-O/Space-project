@@ -1,42 +1,28 @@
 body {
-  background: url("https://www.itl.cat/pngfile/big/83-831748_astronaut-space-space-art-astronaut-moon-art.jpg") no-repeat; ;
+  background: url("http://sites.psu.edu/siowfa14/wp-content/uploads/sites/13467/2014/09/tumblr_static_starry.jpg") no-repeat;
   background-size: auto;
   
 }
 
-img{
-  width: 30%;
-  margin-left: 820px;
-  margin-top: 200px;
-}
-
 h2{
   color: white;
-  font-family: Monospace;
-  font-weight: 900;
+  text-align: center; 
+  font-family: monospace;
   font-size: 30px;
-  margin-left: 850px;
-  width: 500px
+  width: auto;
+  
 }
 
-#down
-{
-	position: absolute;
-	top:85vh;
-	size: 40px;
-	padding: 20px;
-	font-size: 2.5em;
+.logo{
   color: white;
-  text-align: center;
-  margin-left: 573px;
-    margin-top: 101px;
+  text-align: center; 
+  font-family: monospace;
+  font-size: 50px;
+  width: auto;
+  height: 
+  vertical-align: middle
 }
 
-#down:hover
-{
-	cursor: pointer;
-	background-color: white;
-	opacity: 1;
-  color: black;
-  border-radius: 12px
+.text{
+  text-align: center;
 }
