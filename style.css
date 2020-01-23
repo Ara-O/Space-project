@@ -27,7 +27,8 @@ h1{
 .forms{
   text-align: center;
   margin-top: 200px;
-  
+  font-family: monospace;
+  font-size: 15px
 }
 
 input{
@@ -36,5 +37,11 @@ input{
 
 .bottom{
   background-color: white;
+  width: 50%;
+  margin-left: 370px;
+  border-radius: 45px;
+  margin-bottom: 39px;
+  padding-bottom: 20px;
+ 
 }
 
